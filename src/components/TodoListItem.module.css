@@ -1,0 +1,13 @@
+
+  .ListItem {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    color:white;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+ 
