@@ -1,0 +1,11 @@
+.unorderedTodoList {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+}
